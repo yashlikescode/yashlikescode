@@ -1,9 +1,5 @@
 # Hello, I'm Yashasvi 😃
 
-[<img src="https://avatars.githubusercontent.com/u/66861659?s=400&u=64fefa0d1dc0f089b0cdb61f10f3691ee24cd636&v=4">](https://github.com/kmryashasvi)
-
-<br>
-
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fkmryashasvi)
 ![Facebook URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fkmryashasvi)
 ![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fsqlyash%2F)
