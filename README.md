@@ -3,6 +3,11 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fkmryashasvi)
 ![Facebook URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fkmryashasvi)
 ![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fsqlyash%2F)
+<br>
+
+![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=kmryashasvi&count_private=true&show_icons=true&hide_border=true)
+
+
 
 ### I am Familiar With:
 
