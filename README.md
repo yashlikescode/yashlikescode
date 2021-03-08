@@ -9,6 +9,8 @@
 <a href="https://www.hackerrank.com/kmryashasvi?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="qazimaazarshad?hr_r=1" height="30" width="40" /></a>
 </p>
 
+kmryashasvi@gmail.com
+
 ![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=kmryashasvi&count_private=true&show_icons=true&hide_border=true)
 
 <br>
