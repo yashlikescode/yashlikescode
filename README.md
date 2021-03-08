@@ -1,9 +1,13 @@
 # Hello, I'm Yashasvi 😃
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kmryashasvi.kmryashasvi)
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fkmryashasvi)
-![Facebook URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fkmryashasvi)
-![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fsqlyash%2F)
-<br>
+
+<p align="left">
+<a href="https://twitter.com/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yashasvi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="qazi-maaz-arshad" height="30" width="40" /></a>
+<a href="https://fb.com/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="qazimaaz.arshad.3" height="30" width="40" /></a>
+<a href="https://instagram.com/sqlyash/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qazimaazarshad/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kmryashasvi?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="qazimaazarshad?hr_r=1" height="30" width="40" /></a>
+</p>
 
 ![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=kmryashasvi&count_private=true&show_icons=true&hide_border=true)
 
