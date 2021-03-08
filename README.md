@@ -6,7 +6,11 @@
 <br>
 
 ![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=kmryashasvi&count_private=true&show_icons=true&hide_border=true)
-  <img src=" https://github-readme-stats.vercel.app/api/pin/?username=kmryashasvi&repo=github-readme-stats&cache_seconds=86400&theme=radical&line_height=27">
+
+<br>
+
+ 
+  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmryashasvi&" alt="yashasvi" />
 
 
