@@ -19,7 +19,13 @@ kmryashasvi@gmail.com
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmryashasvi&" alt="yashasvi" />
 
+<br>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=kmryashasvi&theme=xcode" alt="Contribution Graph" align="center" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=muthuannamalai12&theme=nord"  alt="GitHub Profile Trophy" align="center" />
 
 ### I am Familiar With:
 
