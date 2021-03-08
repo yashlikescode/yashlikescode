@@ -1,12 +1,11 @@
 # Hello, I'm Yashasvi 😃
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kmryashasvi.kmryashasvi)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fkmryashasvi)
 ![Facebook URL](https://img.shields.io/twitter/url?label=Facebook&logo=Facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fkmryashasvi)
 ![Instagram URL](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fsqlyash%2F)
 <br>
 
 ![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=kmryashasvi&count_private=true&show_icons=true&hide_border=true)
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kmryashasvi&hide=css,java,html&theme=radical&line_height=27">
   <img src=" https://github-readme-stats.vercel.app/api/pin/?username=kmryashasvi&repo=github-readme-stats&cache_seconds=86400&theme=radical&line_height=27">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmryashasvi&" alt="yashasvi" />
 
