@@ -1,4 +1,7 @@
 # Hello, I'm Yashasvi 😃
+
+Codechef - 2 Stars<br>
+Hackerrank - 3 Stars<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kmryashasvi.kmryashasvi)
 
 <p align="left">
