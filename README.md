@@ -2,7 +2,7 @@
 
 Codechef - 2 Stars<br>
 Hackerrank - 3 Stars<br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kmryashasvi.kmryashasvi)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=stlyash.stlyash)
 
 <p align="left">
 <a href="https://twitter.com/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yashasvi" height="30" width="40" /></a>
@@ -14,17 +14,17 @@ Hackerrank - 3 Stars<br><br>
 
 kmryashasvi@gmail.com
 
-![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=kmryashasvi&count_private=true&show_icons=true&hide_border=true)
+![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=stlyash&count_private=true&show_icons=true&hide_border=true)
 
 <br>
 
  
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmryashasvi&" alt="yashasvi" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stlyash&" alt="yashasvi" />
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=kmryashasvi&theme=xcode" alt="Contribution Graph" align="center" />
+<img src="https://activity-graph.herokuapp.com/graph?username=stlyash&theme=xcode" alt="Contribution Graph" align="center" />
 
 
 
