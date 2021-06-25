@@ -1,7 +1,7 @@
 # Hello, I'm Yashasvi 😃
 
 Codechef - 2 Stars<br>
-Hackerrank - 4 Stars<br><br>
+Hackerrank - 5 Stars<br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stlyash.stlyash)
 
 <p align="left">
