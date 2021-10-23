@@ -5,11 +5,13 @@ Hackerrank - 5 Stars<br><br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=stlyash.stlyash)
 
 <p align="left">
+ 
 <a href="https://twitter.com/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yashasvi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="qazi-maaz-arshad" height="30" width="40" /></a>
 <a href="https://fb.com/kmryashasvi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="qazimaaz.arshad.3" height="30" width="40" /></a>
 <a href="https://instagram.com/sqlyash/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qazimaazarshad/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kmryashasvi?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="qazimaazarshad?hr_r=1" height="30" width="40" /></a>
+ 
 </p>
 
 kmryashasvi@gmail.com
@@ -18,7 +20,6 @@ kmryashasvi@gmail.com
 
 <br>
 
- 
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stlyash&" alt="yashasvi" />
 
@@ -50,4 +51,3 @@ kmryashasvi@gmail.com
 ## Education
 * Currently in B.Tech. 1st year in Rail Systems and Communication Engineering from [National Rail and Transportation Institute, Vadodara, Gujrat](nrti.edu.in)
 * Passed class 12th from Kendriya Vidyalaya No.1, Kankarbagh, Patna, Bihar
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
