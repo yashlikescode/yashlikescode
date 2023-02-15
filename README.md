@@ -25,7 +25,6 @@ kmryashasvi@gmail.com
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=stlyash&theme=xcode" alt="Contribution Graph" align="center" />
 
 
 
