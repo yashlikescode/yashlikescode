@@ -1,8 +1,7 @@
 # Hello, I'm Yashasvi 😃
 
-Codechef - 2 Stars<br>
-Hackerrank - 5 Stars<br><br>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=stlyash.stlyash)
++91 8540904380 | yash@yashasvi.dev
+[Website](https://www.yashasvi.dev) | [LinkedIn](https://www.linkedin.com/in/kmryashasvi) | [GitHub](https://github.com/stlyash)
 
 <p align="left">
  
@@ -14,8 +13,6 @@ Hackerrank - 5 Stars<br><br>
  
 </p>
 
-kmryashasvi@gmail.com
-
 ![Yashasvi's github stats](https://github-readme-stats.vercel.app/api?username=stlyash&count_private=true&show_icons=true&hide_border=true)
 
 <br>
@@ -25,28 +22,25 @@ kmryashasvi@gmail.com
 
 <br>
 
+## EDUCATION
 
+**Gati Shakti Vishwavidyalaya**   
+*Electronics and Communication Engineering (Specialization: Rail Engineering), Nov 2020 - July 2024*   
+CGPA: 7.99 (Up to 6th Semester)
 
+## CERTIFICATIONS
 
-### I am Familiar With:
+- Google certified in:
+  - Project Management
+  - Data Analytics
+  - Front-End Development
+- Meta certified in:
+  - Version Control (Using Git and Github)
+- Completed Coursera Guided Projects:
+  - Linux Command Line
+  - Linux Filesystem
 
-<div class="row">
-  
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="WordPress" src="https://img.shields.io/badge/WordPress%20-%23117AC9.svg?&style=for-the-badge&logo=WordPress&logoColor=white"/>
+## TECHNOLOGIES AND LANGUAGES
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" width="35px">
-
-
-</div>
-
-## Education
-* Currently in B.Tech. 1st year in Rail Systems and Communication Engineering from [National Rail and Transportation Institute, Vadodara, Gujrat](nrti.edu.in)
-* Passed class 12th from Kendriya Vidyalaya No.1, Kankarbagh, Patna, Bihar
+- C/C++, MatLab, Python, JavaScript, HTML, CSS
+- Git, Github, Google Chart API, Linux, Android Development (Using MIT App Inventor)
