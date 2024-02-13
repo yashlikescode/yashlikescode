@@ -1,6 +1,6 @@
 # Hello, I'm Yashasvi 😃
 
-+91 8540904380 | yash@yashasvi.dev
++91 8540904380 | kmryashasvi@gmail.com
 [Website](https://www.yashasvi.dev) | [LinkedIn](https://www.linkedin.com/in/kmryashasvi) | [GitHub](https://github.com/stlyash)
 
 <p align="left">
