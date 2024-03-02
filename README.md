@@ -1,7 +1,7 @@
 # Hello, I'm Yashasvi 😃
 
-+91 8540904380 | kmryashasvi@gmail.com
-[Website](https://www.yashasvi.dev) | [LinkedIn](https://www.linkedin.com/in/kmryashasvi) | [GitHub](https://github.com/stlyash)
++91 8540904380 | kmryashasvi@gmail.com | yash@codemachine.tech |  
+[Website](https://www.codemachine.tech) | [LinkedIn](https://www.linkedin.com/in/kmryashasvi) | [GitHub](https://github.com/stlyash)
 
 <p align="left">
  
@@ -26,16 +26,17 @@
 
 **Gati Shakti Vishwavidyalaya**   
 *Electronics and Communication Engineering (Specialization: Rail Engineering), Nov 2020 - July 2024*   
-CGPA: 7.99 (Up to 6th Semester)
+CGPA: 7.96 (Up to 7th Semester)
 
 ## CERTIFICATIONS
 
 - Google certified in:
   - Project Management
   - Data Analytics
-  - Front-End Development
 - Meta certified in:
   - Version Control (Using Git and Github)
+  - Javascript
+  - React
 - Completed Coursera Guided Projects:
   - Linux Command Line
   - Linux Filesystem
