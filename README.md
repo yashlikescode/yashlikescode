@@ -61,13 +61,7 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-![Yashasvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashlikescode&count_private=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashlikescode&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashlikescode&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
